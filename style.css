@@ -1,0 +1,183 @@
+body {
+	background-color: #EAECF0;
+	font-family: Sansita;
+	color: #5C636E;
+}
+
+h1	{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+h2	{
+	color: #222222;
+}
+
+h5 {
+	color: purple;
+	text-align: center;
+	font-size: 25px;
+}
+
+p {
+	color: #80a545;
+	text-shadow: 0.3px 0.3px 0.3px #80a545;
+	text-align: center;
+}
+
+#mainNav a {
+	color: white
+}
+
+
+
+.wrapper {
+	background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+ url(https://files.slack.com/files-pri/T7L0R2URZ-F8ZBZBG69/pexels-photo-349610.jpeg);
+  background-size: cover;
+  background-position: center center;
+  text-align: center;
+  padding: 150px 100px;
+  color: white;
+}
+
+
+
+
+
+
+
+.banner {
+  background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+  url(images/bois4.jpeg);
+  background-size: cover;
+  background-position: center center;
+  text-align: left;
+  padding: 240px 100px;
+  color: white;
+}
+.banner h1 {
+	text-align: left;
+	font-size: 120px;
+	text-shadow: 5px 5px 5px #80a545;
+}
+.banner p {
+	text-align: left;
+	font-size: 30px;
+	margin-left: -20px;
+	text-shadow: 0.3px 0.3px 0.3px #80a545
+}
+#boutonbanner {
+	text-align: left;
+	margin-left: 135px;
+	font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+.middle {
+	background-color: #eaecf0;
+	text-align: center;
+	padding: 150px;
+}
+.middle h2 {
+	font-size: 50px;
+	text-shadow: 0.8px 0.8px 0.8px #80a545;
+}
+.middle p {
+	font-size: 20px;
+	text-shadow: 0.3px 0.3px 0.3px #80a545;
+}
+
+
+
+
+
+
+.wrapper {
+  background: linear-gradient(135deg, rgba(56, 57, 59, 0.2) 0%, rgba(84, 82, 16, 0.4) 100%), 
+  url(images/bois2.jpeg);
+  background-size: cover;
+  background-position: center center;
+ }
+
+
+
+
+
+
+
+#logofin {
+	width: 100px;
+	height: auto;
+	margin-left: 590px;
+	padding-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+  padding: 100px;
+  padding-bottom: 50px;
+  text-align: center;
+  color: #80a545;
+}
+
+footer span.copyright {
+  font-size: 90%;
+  line-height: 40px;
+  text-transform: none;
+  font-family: Sansita;
+}
+
+footer ul.quicklinks {
+  font-size: 90%;
+  line-height: 40px;
+  margin-bottom: 0;
+  text-transform: none;
+  font-family: Sansita;
+}
+
+footer a {
+	color: #80a545;
+}
+
+ul.social-buttons {
+  margin-bottom: 0;
+}
+
+ul.social-buttons li a {
+  font-size: 20px;
+  line-height: 40px;
+  display: block;
+  width: 40px;
+  height: 40px;
+  -webkit-transition: all 0.3s;
+  -moz-transition: all 0.3s;
+  transition: all 0.3s;
+  color: white;
+  border-radius: 100%;
+  outline: none;
+  background-color: purple;
+}
+
+ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
+  background-color: #fed136;
+}
+
+
