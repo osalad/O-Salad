@@ -109,12 +109,12 @@ p {
   background-position: center center;
  }
 
-.middle {
+.carte {
 	background-color: #eaecf0;
 	text-align: center;
 	padding: 125px;
 }
-.middle h2 {
+.carte h2 {
 	font-size: 50px;
 	text-shadow: 0.8px 0.8px 0.8px #80a545;
 }
